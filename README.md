@@ -48,7 +48,7 @@ Before running the JustDoIT To-Do app, ensure you have the following installed:
     ```bash
     DB_HOST=localhost
     DB_USER=root
-    DB_PASSWORD=NagiyevSQL05
+    DB_PASSWORD=password123
     DB_NAME=to_do_app
     ```
 
